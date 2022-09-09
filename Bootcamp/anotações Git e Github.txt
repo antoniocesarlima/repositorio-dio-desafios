@@ -1,0 +1,12 @@
+Comandos para Git:
+- git init -> Inicializa o repositório na pasta local
+- git status -> Mostra o status da branch
+- git add . -> Adiciona todos os arquivos para serem commitados
+- git commit -m "Aqui vai uma msg" -> Commita os arquivos e dixa pronto para ser enviado para o diretório remoto
+- git push -> Manda os arquivos para o diretório remoto
+
+Comandos auxiliares:
+- ls -> Mostra o conteudo da pasta
+- cd -> Para movimentar-se entre os dretórios
+- mkdir -> Para criar um diretório
+- mv -> Para mover arquivos ou renomea-los 
